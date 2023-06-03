@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "26922260978",
+    "project_id": "adopets-9327b",
+    "storage_bucket": "adopets-9327b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26922260978:android:e4baf3ea927e8f00b5f36b",
+        "android_client_info": {
+          "package_name": "com.example.AdoPets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26922260978-uo6n40r6o3ks6jcbs88vfjn6m6d3g0di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-gkjrAvdpZNaKtiXsX-6E9xCGWpxCT0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26922260978-uo6n40r6o3ks6jcbs88vfjn6m6d3g0di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26922260978:android:9cb5f39b34edcf8db5f36b",
+        "android_client_info": {
+          "package_name": "com.example.adopets2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26922260978-uo6n40r6o3ks6jcbs88vfjn6m6d3g0di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-gkjrAvdpZNaKtiXsX-6E9xCGWpxCT0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26922260978-uo6n40r6o3ks6jcbs88vfjn6m6d3g0di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
